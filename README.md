@@ -10,7 +10,7 @@ Este repositorio contiene ejemplos, configuraciones y mejores prácticas para tr
 
 Para entender los conceptos básicos de Docker, consulta el archivo de fundamentos:
 
-- **[Fundamentos Docker](./FUNDAMENTOS_DOCKER.md)** - Guía completa sobre conceptos clave de Docker
+- **[Fundamentos Docker](./Fundamento_Docker.md)** - Guía completa sobre conceptos clave de Docker
 
 ### 📁 Estructura del Repositorio
 
