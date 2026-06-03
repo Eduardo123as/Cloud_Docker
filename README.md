@@ -94,33 +94,16 @@ docker logs nombre-contenedor
 - **docker-api** - API containerizada con Docker
 - Más proyectos en [mi perfil](https://github.com/Eduardo123as)
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Para contribuir:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
 ## 📝 Notas
 
 - Este repositorio es educativo y se actualiza regularmente
 - Los ejemplos están diseñados para Linux, macOS y Windows
 - Se recomienda seguir los materiales en orden
 
-## ❓ Preguntas y Soporte
-
-Si tienes preguntas o encuentras problemas:
-- Abre un [issue](https://github.com/Eduardo123as/Cloud_Docker/issues)
-- Revisa la [documentación de Docker](https://docs.docker.com/)
-- Consulta los materiales de estudio del repositorio
 
 ---
 
 **Autor:** Eduardo123as  
-**Última actualización:** Junio 3, 2026  
 **Licencia:** Abierto para uso educativo
 
 ⭐ Si este repositorio te fue útil, considera darle una estrella!
